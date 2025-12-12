@@ -1,0 +1,83 @@
+body {
+  background-color: rgb(34, 12, 34);
+  color: rgb(244, 80, 209);
+
+}
+h1 {
+  font-size: 25px;
+  text-align: center;
+
+}
+p {
+  font-size: 20px;
+  line-height: 1.4;
+  
+}
+a {
+  color: rgb(234, 227, 234);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+
+}
+button {
+  background-color: rgb(228, 72, 184);
+  color: rgb(223, 105, 234);
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.center-links {
+  text-align: center;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  padding-bottom: 40px;
+}
+
+section {
+  margin: 70px;
+  padding: 30px;
+  border: 2px solid rgb(244, 80, 209);
+  border-radius: 30px;
+  background-color: rgb(67, 7, 67);
+ text-align: center;
+}
+
+carousel-item {
+  text-align: center;
+  margin-top: 20px;
+  display: flex;
+  
+}
+
+
+html button {
+  color: rgb(244, 242, 242);
+  margin: 10;
+  padding: 20;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  background-color: rgb(34, 12, 34);
+  border: 2px solid rgb(244, 80, 209);
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+creativity-section {
+  text-align: center;
+  margin-top: 20px;
+  display: flex;
+  background-color: rgb(67, 7, 67);
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  padding-bottom: 40px;
+    
+}
+
